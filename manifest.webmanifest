@@ -1,0 +1,14 @@
+{
+  "name": "Crochet Grid Designer",
+  "short_name": "Crochet Grid",
+  "description": "Turn a picture into a pixel-style crochet chart with a row-by-row pattern.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4efe8",
+  "theme_color": "#fffdf9",
+  "icons": [
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
